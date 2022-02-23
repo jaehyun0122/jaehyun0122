@@ -1,9 +1,4 @@
-<style>
-    .main{
-    background-color: black;
-    }
-</style>
-    
+   
 <div id="main">
     
 im jaehyun
@@ -11,3 +6,8 @@ im jaehyun
 
 </div>
 
+<style>
+    .main{
+    background-color: black;
+    }
+</style>
