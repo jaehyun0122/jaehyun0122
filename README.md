@@ -6,6 +6,6 @@ im jaehyun
 
 </div>
 
-.main{
-background-color: back;
+main{
+background-color: black;
 }
