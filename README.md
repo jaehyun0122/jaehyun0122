@@ -13,10 +13,6 @@ im jaehyun
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-## stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaehyun0122&show_icons=true&theme={theme})](https://github.com/jaehyun0122/github-readme-stats)
-
 ## backjoon
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjeom122)](https://solved.ac/jjeom122)
 
