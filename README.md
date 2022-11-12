@@ -1,1 +1,1 @@
-### [이력서 Link ](https://www.notion.so/0345ba5d3af84e1e92309845be2e5010)
+### [이력서 Link ](https://goofy-stinger-308.notion.site/Junior-Backend-db4fe7bca4214b66ab3324e27a17d402)
